@@ -8,7 +8,6 @@ Before writing code, we must choose how to organize our data. Here are the outli
 
 A top-down, normalized approach where data is stored in Third Normal Form (3NF).
 
-
 - **How it works** ? 
 
 You create a "Single Source of Truth" where every piece of data (e.g., a customer address) exists in exactly one place.
